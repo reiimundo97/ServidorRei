@@ -1,19 +1,4 @@
 #EXTM3U url-tvg="https://tv.teleclub.xyz/epg"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", TV Latino | Teleclub!
-https://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Lista Gratuita 28/05/2021
-https://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Activar desde www.teleclub.xyz/activar
-https://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Telegram: @teleclubsoporte
-https://tv.teleclub.xyz/hls/welcome.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club", Teleclub | EVENTO 1
-https://tv.teleclub.xyz/canales/EVENTO_TELECLUB.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club", Teleclub | EVENTO 2
-https://tv.teleclub.xyz/canales/EVENTO_TELECLUBXYZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club", Teleclub | EVENTO 3
-https://tv.teleclub.xyz/canales/EVENTO_TVCLUB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [Club]
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
@@ -325,10 +310,20 @@ https://tv.teleclub.xyz/canales/ONLINE_SIMPSON247.m3u8
 https://tv.teleclub.xyz/canales/ONLINE_FUTURAMA247.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | South Park 2
 https://tv.teleclub.xyz/canales/ONLINE_SOUTHPARK.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Malcolm el de enmedio [Club4]
+https://tv.teleclub.xyz/canales/L4/247_MALCOLM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Teoria del Bing Bang
+https://tv.teleclub.xyz/canales/L4/247_BINGBANG.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Como conoci a tu madre [Club4]
+https://tv.teleclub.xyz/canales/L4/247_MADRE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | American Dad
 https://tv.teleclub.xyz/canales/ONLINE_AMERICANDAD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Chavo del 8
 https://tv.teleclub.xyz/canales/L1/CHAVO_8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Peliculas [Club4]
+https://tv.teleclub.xyz/canales/L4/247_PELICULAS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | HBO
+https://player.teleringa.com/embed/mpd.php?canal=HBO&stream=/live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | Minuto para Ganar
