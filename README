@@ -328,12 +328,6 @@ https://tv.teleclub.xyz/canales/ONLINE_AMERICANDAD.m3u8
 https://tv.teleclub.xyz/canales/L1/CHAVO_8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Peliculas [Club4]
 https://tv.teleclub.xyz/canales/L4/247_PELICULAS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Warner
-https://player.teleringa.com/embed/mpd.php?canal=Warner%20Channel&stream=/live/live/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Warner 2.0
-https://edge9-sl.cvattv.com.ar//live/live/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Star Series
-https://player.teleringa.com/c0708068-09fa-4841-9b0b-b0328758d138
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | Minuto para Ganar
@@ -411,9 +405,7 @@ https://www90.ff-01.com/token=tSOhkF2sOMrC48kpQ_YJLQ/1623096344/179.51.0.0/6/b/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Raya_y_el_%C3%BAltimo_drag%C3%B3n.png" group-title="Peliculas", Raya y el último dragón|2021
 https://pr8.sbcdnvid.com/hls/tysxeshz6g66j6cdabprvskxooavgi2x6cxikbpifslw4i6oyslgcyvpeqfa/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://images.imgbox.com/05/99/NOIGJaUE_o.png" group-title="Peliculas", Anabelle|2020
-https://drive.google.com/file/d/1twj88OxHZRYO1FT0H7oHJvd2_4sR85_7/view?usp=sharing
+https://fvs.io/redirector?token=UjlPUS9aYnZDL1FTcE96NG0vQmZWU3g5a0lVcmxZUVNKUmJlbW9GM0JOL2Q0V3piSWVvbjVLOUtpYSsxSGFydFRIVFZnMmkxSWkxWisxMHgvZWJnU3pLOTVjWTJQWm9rb3UycVl6bDd0cklXN3d4djJDdS9xQ05nRGpNTTI4VVlwR3RSV1hlRmxQU0FwV2FwZEVMcGtPek5NaXV4TVBXcDVBPT06Yi8xVFdOUFN3M1IvbmpVWm5tZ1Nhdz09
 #EXTINF:-1 tvg-logo="https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbJjdHixfNHqtum2vX6Ud1N-9c-nE88q4UHrUqd9WtvA9bD96yp_4Mhd17ci3z-RyvOYSSv1K6fVAeILDeEUbZF0OFcBrY-qvFcc.png?r=fde" group-title="Peliculas", El Conjuro 3|2021
-api.cuevana3.io/ir/goto_ddh.php?h=cHdlSGU2VjczUUVPODNNUXI0UWVpTEk3SGFLbjZaWUNQdStvVGEzUGc4NXNXU0owNUVoVGd0aHZmNUc3RW1vUWFwTnlzOW5LaDgybkpYL2MvRURHM3ErZGE5MTAwdUJHZ1MreTYwOE1nL3JOOUxmOEY2OVFVYWZIaFVNODV5aXNqcFFUK0JqRW13YzM4bWRkOGc3Ujd3PT0
-#EXTINF:-1 tvg-logo="https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbJjdHixfNHqtum2vX6Ud1N-9c-nE88q4UHrUqd9WtvA9bD96yp_4Mhd17ci3z-RyvOYSSv1K6fVAeILDeEUbZF0OFcBrY-qvFcc.png?r=fde" group-title="Peliculas", El Conjuro 3.2|2021
-https://damedamehoy.xyz/embed.html#enk4ejBaUGtXaVk2WnRiUWZpNlhzYmtuVkkxWkQ4OFVTb0svVXpHLzZORmpmbE5yMkp0Rm96bFh2Qll6UzgweDJra0xUT3I2NCtueDM0NitqUGtQZXpIQmN3VVhva01HRU1qRWw5YTRud0k9
+https://fvs.io/redirector?token=WkF0aTRObHA0WWpWZk9kbFRtNXBNOTNsTHp1Z0NFOU8vMjY0M0pIdXRLV3pEY0lObGl5Si82OGNuZDZMTEJnYWpnMTVTUkJJUnI0ejhJVElDdHpPUGNJM1QzYmRBMmhPcTAvRGdhcThKcE9FSjR3ejVFTm1xUy83N3JUUVZvYmowcEZlSnRBVzhENEtEM2pOd1E5QTYwQlVWaldOemtKY2RzYz06UnJnc0JaVzFwZWJDdzd2aG1TTlNrUT09
 
