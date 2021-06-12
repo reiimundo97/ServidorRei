@@ -20,16 +20,6 @@ https://tv.teleclub.xyz/canales/L1/NICKJR.m3u8
 https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias", CNN en Espanol [Club]
-https://tv.teleclub.xyz/canales/L1/CNNESPANOL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias", CNN en Espanol 2 [Club]
-https://tv.teleclub.xyz/canales/L1/CNNESPANOL2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JQFsU7i.png" group-title="Noticias", ADN40 [Club]
-https://tv.teleclub.xyz/canales/L1/ADN40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Noticias", RT en Español [Club]
-https://tv.teleclub.xyz/canales/L1/RT_ESPANOL.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Externa", Ecuador | Ecuavisa
 http://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Externa", Ecuador | Teleamazonas
@@ -226,22 +216,6 @@ https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 https://tv.teleclub.xyz/canales/L1/DEPELICULA.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV [Club]
-https://tv.teleclub.xyz/canales/L1/MTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV Hits [Club]
-https://tv.teleclub.xyz/canales/L1/MTVHITS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV 80s [Club]
-https://tv.teleclub.xyz/canales/L1/MTVLIVE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica", VH1 CLASSIC [Club]
-https://tv.teleclub.xyz/canales/L1/VH1CLASSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" group-title="Musica", VH1 [Club]
-https://tv.teleclub.xyz/canales/L1/VH1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J96x0Cp.png" group-title="Musica", HTV [Club]
-https://tv.teleclub.xyz/canales/L1/HTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="Musica", Bandamax [Club]
-https://tv.teleclub.xyz/canales/L1/BANDAMAX.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deporte", GolPeru [Club]
 https://tv.teleclub.xyz/canales/L1/GOLPERU.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deporte", ESPN Deportes [Club]
@@ -316,18 +290,10 @@ https://tv.teleclub.xyz/canales/ONLINE_SIMPSON247.m3u8
 https://tv.teleclub.xyz/canales/ONLINE_FUTURAMA247.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | South Park 2
 https://tv.teleclub.xyz/canales/ONLINE_SOUTHPARK.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Malcolm el de enmedio [Club4]
-https://tv.teleclub.xyz/canales/L4/247_MALCOLM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Teoria del Bing Bang
-https://tv.teleclub.xyz/canales/L4/247_BINGBANG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Como conoci a tu madre [Club4]
-https://tv.teleclub.xyz/canales/L4/247_MADRE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | American Dad
 https://tv.teleclub.xyz/canales/ONLINE_AMERICANDAD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Chavo del 8
 https://tv.teleclub.xyz/canales/L1/CHAVO_8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Peliculas [Club4]
-https://tv.teleclub.xyz/canales/L4/247_PELICULAS.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | Minuto para Ganar
@@ -402,7 +368,74 @@ EXTINF:-1 tvg-logo="https://www.non-disneyinternationaldubbingcredits.com/upload
 http://fina.dyndns.tv/Peliculas/La%20Dama%20Y%20el%20Vagabundo.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/novocom.top/image/d2FrYdha2FW1lZGlhLndha2FuaW0udHY=/logos-500/382_AOT_Logo_ENG_V1.png" group-title="Attack On Titans", S1E1
-https://00f74ba44bf8dbaf9275e3806563494415f3fe9530-apidata.googleusercontent.com/download/storage/v1/b/olakease/o/a765d9da5222bdac616fd48788c23bfb?jk=AFshE3XuJCHyzFt_VnkK3_b2pnWv6NCMcZuo4USSDOhBNVLMR3bQSgqEOEphJ9rt_tASAMymq8WoadOOtpNdapQ5P9rKLcLiMTOdlA-lwEji109qJePsg_WC6AFfez5-RnHmgZohyxsIjFLZfzbWBQ5D4mWSUntsemTMItB1jB-huGoWcW9VqfZqfkLkYldeFpCSQDF-5fPZOXj18UfbvaimSnRiqDacMacAA2RxF95PBLsWBBGlunn1RtqMdyfAbXoohLVpDLKTnHtm6MrmqqLCk74tyqkW_njfDW8SiWKdMSlmw3nZsGUBRUuvCu9ANQXVPY0FRGSwKgFLqtrsl5skTzWYhx_dCAs9s07aLCIO-mL46vzuVO3sHQhtgUwnqOFRKQdX7uqtyCKrYQkRJU_SPpAV6bW-K_IwGa4VbI10Qr__37fUhYBwTalwVPoOZNFTwF6soq5LafN58ZDa8q0FSBWXMd1Gxr7tzH4UCZDNaTU6bqk5NNu7FqLWCudbxSHDNMeXztNZCwUZLiFREVwyeJNs50HB6Cf3-6dF4iNfPRsUPxFqFqca0-nDgJv7T9EiW4JTwK7U_WWBXaxddAGPp6szMxQMkbju1l-yQ7VVIi4sZD7FZefBcTzxercIp3acwQUoDeojPCQ65rWiODbuDx8O57EaDP2MC3eMBZ7GS21txgXEZhameewh9yMbj5BDXoM29q-5VFBiW_tbafFFFqRFnecwj1DmAcflgzVCGKfGrH6qx4XHJepp8YLjW8V8-6kWOIDMnMm122ExGcD2eOdylY6wihW_bjIk4h9g90bm4-p7WAfiJhQt_YdyGyNE6pP7-jI_F3_hJr2yq6BZpW3ikrw2CtfWGmOtprKLkEyFWZ7PLFFmpefx6DSMZmqLxm15Db6ifTn2-1YyMqjjeGAvz3uNiipXxx8Rvv_H9uu7gUNOHjLYe1oCAUrWLmrbg23073V_8jbGGn9zEL154bvCh2wu1yp4-XQ2idV_kiQe-qVO40rmlL0XGbF3&isca=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/novocom.top/image/d2FrYdha2FW1lZGlhLndha2FuaW0udHY=/logos-500/382_AOT_Logo_ENG_V1.png" group-title="Attack On Titans", S1E1.5
-https://streamium.xyz/gocdn.html#ZFBKTkZTY0JBcVlEWnFPNXY4Z01oR1JsaEh0UEsxdVJGTDk4Q01CalVUVlRUajNjSEw3bDkwcE1CZTM1dE9xOXZWenZBSDM1MEZSend1dktIOEhNVldqT3NLeUJ6eHByRCtSRUlHZmZCNlVJd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E1
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x01.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E2
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x02.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E3
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x03.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E4
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x04.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E5
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x05.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E6
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x06.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E7
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x07.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E8
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x08.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E9
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x09.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E10
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x10.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E11
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x11.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E12
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x12.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E13
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x13.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E14
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x14.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E15
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x15.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E16
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x16.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E17
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x17.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E18
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x18.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E19
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x19.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E20
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x20.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E21
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x21.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E22
+http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x22.mkv
+
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E1
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x01.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E2
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x02.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E3
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x03.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E4
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x04.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E5
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x05.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E6
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x06.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E7
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x07.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E8
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x08.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E9
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x09.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E10
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x10.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E11
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x11.mkv
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E12
+http://fina.dyndns.tv/Series/American%20Horror%20Story/01x12.mkv
+
