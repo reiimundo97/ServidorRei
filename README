@@ -20,52 +20,13 @@ https://tv.teleclub.xyz/canales/L1/NICKJR.m3u8
 https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Externa", Ecuador | Ecuavisa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador", Ecuador | Ecuavisa
 http://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Externa", Ecuador | Teleamazonas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador", Ecuador | Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Externa", Ecuador | Tc Television
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Ecuador", Ecuador | Tc Television
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Externa", ARG | Telefé Bahia Blanca [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TELEFE_BAHIA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Externa", ARG | Telefé Rosario [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TELEFE_ROSARIO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZBCcjc.png" group-title="Externa", ARG | America TV Tucumán [*]
-https://tv.teleclub.xyz/canales/EXTERNA_AMERICATV_TUCUMAN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2ASFXGc.png" group-title="Externa", ARG | Canal IP [*]
-https://tv.teleclub.xyz/canales/EXTERNA_IP_ARG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQFUby8.png" group-title="Externa", ARG | 26 TV
-https://tv.teleclub.xyz/canales/EXTERNA_26TV_ARG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oXfwH1i.png" group-title="Externa", ARG | Telemax [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TELEMAX_ARG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UmUz3h6.png" group-title="Externa", UY | Canal 10 [*]
-https://tv.teleclub.xyz/canales/EXTERNA_CANAL10_UY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQrz67n.jpg" group-title="Externa", PY | ABC [*]
-https://tv.teleclub.xyz/canales/EXTERNA_ABC_PY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74cdEvY.jpg" group-title="Externa", PY | Unicanal [*]
-https://tv.teleclub.xyz/canales/EXTERNA_UNICANAL_PY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="Externa", CL | Camara de Diputados [*]
-https://tv.teleclub.xyz/canales/EXTERNA_CAMARA_CL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D8TetXe.jpg" group-title="Externa", CL | STGO TV [*]
-https://tv.teleclub.xyz/canales/EXTERNA_STGOTV_CL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SdWLG7O.png" group-title="Externa", Love Nature [*]
-https://tv.teleclub.xyz/canales/EXTERNA_LOVENATURE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa", Telesur LAT [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TELESUR_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHfa87.png" group-title="Externa", Telesur English [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TELESUR_ENGLISH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zoh8rT7.jpg" group-title="Externa", CBS News Los Angeles [*]
-https://tv.teleclub.xyz/canales/EXTERNA_CBSNEWS_LA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Tb47L0.jpg" group-title="Externa", NHK World [*]
-https://tv.teleclub.xyz/canales/EXTERNA_NHK_WORLD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVVY9o6.png" group-title="Externa", UCL Television LAT [*]
-https://tv.teleclub.xyz/canales/EXTERNA_UCL_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dInDwa0.png" group-title="Externa", Tierramia [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TIERRAMIA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai3ZUG5.jpg" group-title="Externa", TopMusic [*]
-https://tv.teleclub.xyz/canales/EXTERNA_TOPMUSIC_247.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cW8RoFm.jpg" group-title="Externa", EC | CCTV Quevedo [*]
-https://tv.teleclub.xyz/canales/EXTERNA_QUEVEDO_EC.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe [Club]
@@ -445,4 +406,26 @@ http://fina.dyndns.tv/Series/American%20Horror%20Story/01x10.mkv
 http://fina.dyndns.tv/Series/American%20Horror%20Story/01x11.mkv
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E12
 http://fina.dyndns.tv/Series/American%20Horror%20Story/01x12.mkv
+
+
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E1
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E01.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E2
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E02.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E3
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E03.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E4
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E04.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E5
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E05.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E6
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E06.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E7
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E07.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E8
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E08.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E9
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E09.mp4
+#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E10
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E10.mp4
 
