@@ -352,6 +352,8 @@ https://tv.teleclub.xyz/canales/PLUTOTV_HUMOR.m3u8
 https://tv.teleclub.xyz/canales/PLUTOTV_MISTERIOSMEDICOS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | The Walking Dead
 https://tv.teleclub.xyz/canales/PLUTOTV_THEWALKINGDEAD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", Cartoon Network
+https://wigistream.to/embed/6lfyznozxwfmb5o
 
 
 #EXTINF:-1 tvg-logo="https://m.maccosmetics.co.uk/media/export/cms/collections/mac_cruella/mac_cruella_launch_steps_logo.png" group-title="Peliculas", Cruella|2021
