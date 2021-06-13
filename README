@@ -313,9 +313,6 @@ https://tv.teleclub.xyz/canales/PLUTOTV_HUMOR.m3u8
 https://tv.teleclub.xyz/canales/PLUTOTV_MISTERIOSMEDICOS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | The Walking Dead
 https://tv.teleclub.xyz/canales/PLUTOTV_THEWALKINGDEAD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", Cartoon Network
-https://emqf7d2bfb.azcdn728.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=Ik0D8Hx-RqvgrIc3awwwvg&e=1623497285
-
 
 
 #EXTINF:-1 tvg-logo="https://m.maccosmetics.co.uk/media/export/cms/collections/mac_cruella/mac_cruella_launch_steps_logo.png" group-title="Peliculas", Cruella|2021
@@ -383,29 +380,29 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x22.mkv
 
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E1
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x01.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x01.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E2
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x02.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x02.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E3
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x03.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x03.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E4
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x04.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x04.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E5
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x05.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x05.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E6
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x06.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x06.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E7
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x07.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x07.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E8
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x08.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x08.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E9
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x09.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x09.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E10
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x10.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x10.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E11
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x11.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x11.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E12
-http://fina.dyndns.tv/Series/American%20Horror%20Story/01x12.mkv
+http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x12.mp4
 
 
 #EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E1
@@ -430,17 +427,3 @@ http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATIN
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E10.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E1
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E01.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E2
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E02.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E3
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E03.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E5
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E05.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E6
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E06.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E7
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E07.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/The_Boys_logo.png" group-title="The Boys", S2E8
-http://201.172.61.81:85/series/noviembre/The%20Boys%204%20falto%20el%204/The%20Boys%20T02E08.mp4
