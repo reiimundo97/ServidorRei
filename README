@@ -379,6 +379,10 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x21.mkv
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x22.mkv
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E1
+https://tionione-2.wolfcdn.net/hls/xwxn56h4uglcl3ulbjzs5tya5ikiuzz7b4zbmhjdls3v275232p2nqvhizsq/index-v1-a3.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E1
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x01.mp4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E2
