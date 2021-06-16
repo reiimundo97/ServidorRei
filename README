@@ -306,22 +306,24 @@ https://tv.teleclub.xyz/canales/PLUTOTV_MISTERIOSMEDICOS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | The Walking Dead
 https://tv.teleclub.xyz/canales/PLUTOTV_THEWALKINGDEAD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7eAmlAXWNe8GS0TFS1hNjSFh2ZF.png" group-title="Peliculas", Cruella|2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7A8HeaLk8t2l7aMU3qg7ZHwwz23.jpg" group-title="Peliculas", Cruella|2021
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Cruella%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gDkxCpuxeFlWX56waS9xhbI8t3d.png" group-title="Peliculas", El Conjuro 3|2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="Peliculas", El Conjuro 3|2021
 http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1G9iQzjuClydDqrJyuw0Vt1Kxut.png" group-title="Peliculas", Monster University
+EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Peliculas", Monster University
 http://51.77.66.14/07-Pixar/Monsters.University.2013.1080p.BluRay.TrueHD.7.1.x264-PublicHD/Monsters.University.2013.1080p.BluRay.Espa%c3%b1ol_ac3.x264-PublicHD.v2.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xi23eSwoibr5XeuZWBkTIBcA8O2.png" group-title="Peliculas", UP|2009
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg" group-title="Peliculas", UP|2009
 http://51.77.66.14/07-Pixar/Up.2009.1080p.LATINO.x265.10bit/Up.2009.1080p.LATINO.x265.10bit.mkv
-EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/521029/hdmovielogo/annabelle-comes-home-5d20d6be0e03e.png" group-title="Peliculas", Anabelle 3|2019
+EXTINF:-1 tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/10007-14015-Annabelljpg" group-title="Peliculas", Anabelle 3|2019
 http://193.34.144.178/Bryan/Peliculas/Ver%20Annabelle%20vuelve%20a%20casa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ug2Mtb32CJfLa4b4kcKyJPznLvU.png" group-title="Peliculas", La Dama y el Vagabundo|1955
+EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dIskHjAtbrXk7JpOc6poo6anWGX.jpg" group-title="Peliculas", La Dama y el Vagabundo|1955
 http://fina.dyndns.tv/Peliculas/La%20Dama%20Y%20el%20Vagabundo.mkv
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/q9B5PZwG4YD9q4a8HjzijJcebgn.png" group-title="Peliculas", Raya y el Ultimo Dragon|2021
+EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nPCICwwl4eYTrvY7PlvfPIwFqHl.jpg" group-title="Peliculas", Raya y el Ultimo Dragon|2021
 http://201.172.61.203:88/Peliculas/Febrero/Raya%20and%20the%20Last%20Dragon%20(2021)%20%5b1080p%20DSNP%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lI6Rb2yrBKPvLaSKN1wYH2AoCFX.png" group-title="Peliculas", Godzilla vs Kong|2021
+EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvAKVNLJeBOb2hJBsaqLrC3mXo3.jpg" group-title="Peliculas", Godzilla vs Kong|2021
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/djpjjR2qt1g7CwACKuxNWpQSf8Q.jpg" group-title="Peliculas", Wonder Woman 1984 | 2020
+http://fina.dyndns.tv/Peliculas/Wonder%20Woman%201984.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S3E1
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x01.mkv
@@ -364,51 +366,51 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x19.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S3E20
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x20.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E1
 https://tionione-2.wolfcdn.net/hls/xwxn56h4uglcl3ulbjzs5tya5ikiuzz7b4zbmhjdls3v275232p2nqvhizsq/index-v1-a3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E1
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x01.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E2
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x02.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E3
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x03.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E4
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x04.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E5
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x05.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E6
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E6
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x06.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E7
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x07.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E8
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x08.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E9
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x09.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E10
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E10
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x10.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E11
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E11
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x11.mp4
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/american-horror-story-logo-png-1.png" group-title="American Horror History", S1E12
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E12
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x12.mp4
 
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E1
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E01.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E2
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E02.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E3
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E03.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E4
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E04.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E5
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E05.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E6
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E6
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E06.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E7
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E07.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E8
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E08.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E9
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E09.mp4
-#EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/game_of_thrones/1-2-game-of-thrones-logo-picture.png" group-title="Game Of Thrones", S1E10
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg" group-title="Game Of Thrones", S1E10
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E10.mp4
