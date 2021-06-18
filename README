@@ -234,7 +234,6 @@ https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deporte", TUDN MX [Club]
 https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons
 https://tv.teleclub.xyz/canales/EXTERNA_VER_SIMPSONS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons 2
@@ -247,7 +246,6 @@ https://tv.teleclub.xyz/canales/ONLINE_SOUTHPARK.m3u8
 https://tv.teleclub.xyz/canales/ONLINE_AMERICANDAD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Chavo del 8
 https://tv.teleclub.xyz/canales/L1/CHAVO_8.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYP8zKq.png" group-title="PlutoTV", PlutoTV | Minuto para Ganar
 https://tv.teleclub.xyz/canales/PLUTOTV_MINUTOPARAGANAR.m3u8
@@ -324,6 +322,31 @@ EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvAKVNLJeBOb2hJBsaqL
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/djpjjR2qt1g7CwACKuxNWpQSf8Q.jpg" group-title="Peliculas", Wonder Woman 1984 |2020
 http://fina.dyndns.tv/Peliculas/Wonder%20Woman%201984.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oKXoW0PybDzcnt5486gJhQ8hxNC.jpg" group-title="Peliculas", Cementerio de Animales | 2019
+http://fina.dyndns.tv/Peliculas/Cementerio%20de%20Animales%202019.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9zbl69Zl5E7nZ7O3eX81UVqDfY9.jpg" group-title="Peliculas", John Wick 3 | 2019
+http://fina.dyndns.tv/Peliculas/John%20Wick-3.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7Qd8uiynOXKdM5QWPCU1dkNKzpQ.jpg" group-title="Peliculas", Shazam! | 2019
+http://contentheinentv.ddns.net/Contenido/Peliculas/Estrenos/%c2%a1Shazam!.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="Peliculas", Joker | 2019
+http://contentheinentv.ddns.net/Contenido/Peliculas/Estrenos/Joker.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="Peliculas", El Rey Leon | 2019
+http://fina.dyndns.tv/Peliculas/Rey%20Leon%202019.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gFNDuzomx0Cuok9B6tYBVC5aoLN.jpg" group-title="Star Wars", Star Wars episodio 1 | 1999
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20(1999)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg" group-title="Star Wars", Star Wars episodio 2 | 2002
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20II%20-%20El%20Ataque%20De%20Los%20Clones%20(2002)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qlCXVo5i3hjAU0u0kVxUoCO3Upq.jpg" group-title="Star Wars", Star Wars episodio 3 | 2005
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20III%20-%20La%20Venganza%20De%20Los%20Sith%20(2005)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/k481g6b5lr985rAjxjwfOZ9Wobt.jpg" group-title="Star Wars", Star Wars episodio 4 | 1977
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20IV%20-%20Una%20nueva%20esperanza%20(1977)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zsZwahm4ktZPKX0B494CxqhbBhu.jpg" group-title="Star Wars", Star Wars episodio 5 | 1980
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20V%20-%20El%20Imperio%20Contraataca%20(1980)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bRHQnxe4uJiYYHOQW66QBtIYmWu.jpg" group-title="Star Wars", Star Wars episodio 6 | 1983
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20VI%20-%20El%20Retorno%20del%20Jedi%20(1983)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aAIwk6RGQEdxFNlmRZwNfIiEVQv.jpg" group-title="Star Wars", Star Wars episodio 7 | 2015
+http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20VII%20-%20El%20Despertar%20de%20la%20Fuerza%20(2015)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S3E1
@@ -368,9 +391,9 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x19.mkv
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x20.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E1
-https://www.googleapis.com/drive/v3/files/17Q0qNL6DZrGcFpd2KBRhXfufRpKrWJBD?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
+https://www.googleapis.com/drive/v3/files/1mniw_cDt_IIWfkJj8YDS88yKhOz1uMRB?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E2
-https://www.googleapis.com/drive/v3/files/1wSy0-SRJ7ACJxw-xhT-FqY-dH4K2xZ2X?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
+https://www.googleapis.com/drive/v3/files/18-eVWzVp_PJmoqqTwd5Eh6R1JS1bM2Yq?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E1
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x01.mp4
