@@ -324,10 +324,7 @@ EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvAKVNLJeBOb2hJBsaqL
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/djpjjR2qt1g7CwACKuxNWpQSf8Q.jpg" group-title="Peliculas", Wonder Woman 1984 |2020
 http://fina.dyndns.tv/Peliculas/Wonder%20Woman%201984.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rdPHT0TUvB1JAsT89hrX65xBo0A.jpg" group-title="Peliculas", El Día Del Fin Del Mundo|2020
-https://www.googleapis.com/drive/v3/files/1h6WrzzDVhECL_QbfeMPszASlwZon_aUG?alt=media&key=AIzaSyA7Af0eZbTqazp7ozrg5CNTg9f8dHukf2Y
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIfAITtUZWDE7qoh49pE0xVnkSI.jpg" group-title="Peliculas", Nadie|2021
-https://www.googleapis.com/drive/v3/files/1hLZmnV-lgY4llHx3O_Xy75kFt4Rk-NrW?alt=media&key=AIzaSyA7Af0eZbTqazp7ozrg5CNTg9f8dHukf2Y
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S3E1
@@ -372,9 +369,9 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x19.mkv
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/03x20.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E1
-https://tionione-2.wolfcdn.net/hls/xwxn56h4uglcl3ulbjzs5tya5ikiuzz7b4zbmhjdls3v275232p2nqvhizsq/index-v1-a3.m3u8
+https://www.googleapis.com/drive/v3/files/17Q0qNL6DZrGcFpd2KBRhXfufRpKrWJBD?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E2
-https://www.googleapis.com/drive/v3/files/1zXM8Rxv1t2a3bbWlPj2A9IO9Mkbgd8rI?alt=media&key=AIzaSyA7Af0eZbTqazp7ozrg5CNTg9f8dHukf2Y
+https://www.googleapis.com/drive/v3/files/1wSy0-SRJ7ACJxw-xhT-FqY-dH4K2xZ2X?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yQu2pNkGSROjaMHnhOy1dcMndUp.jpg" group-title="American Horror History", S1E1
 http://201.172.61.81:85/series/Enero/American%20Horror%20Story/T1/AHS.1x01.mp4
