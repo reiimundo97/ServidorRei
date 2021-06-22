@@ -308,10 +308,6 @@ https://tv.teleclub.xyz/canales/PLUTOTV_THEWALKINGDEAD.m3u8
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Cruella%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="Peliculas", El Conjuro 3|2021
 http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Peliculas", Monster University
-http://51.77.66.14/07-Pixar/Monsters.University.2013.1080p.BluRay.TrueHD.7.1.x264-PublicHD/Monsters.University.2013.1080p.BluRay.Espa%c3%b1ol_ac3.x264-PublicHD.v2.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg" group-title="Peliculas", UP|2009
-http://51.77.66.14/07-Pixar/Up.2009.1080p.LATINO.x265.10bit/Up.2009.1080p.LATINO.x265.10bit.mkv
 EXTINF:-1 tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/10007-14015-Annabelljpg" group-title="Peliculas", Anabelle 3|2019
 http://193.34.144.178/Bryan/Peliculas/Ver%20Annabelle%20vuelve%20a%20casa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
 EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dIskHjAtbrXk7JpOc6poo6anWGX.jpg" group-title="Peliculas", La Dama y el Vagabundo|1955
@@ -324,14 +320,51 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%2
 http://fina.dyndns.tv/Peliculas/Wonder%20Woman%201984.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oKXoW0PybDzcnt5486gJhQ8hxNC.jpg" group-title="Peliculas", Cementerio de Animales | 2019
 http://fina.dyndns.tv/Peliculas/Cementerio%20de%20Animales%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9zbl69Zl5E7nZ7O3eX81UVqDfY9.jpg" group-title="Peliculas", John Wick 3 | 2019
-http://fina.dyndns.tv/Peliculas/John%20Wick-3.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7Qd8uiynOXKdM5QWPCU1dkNKzpQ.jpg" group-title="Peliculas", Shazam! | 2019
 http://contentheinentv.ddns.net/Contenido/Peliculas/Estrenos/%c2%a1Shazam!.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="Peliculas", Joker | 2019
 http://contentheinentv.ddns.net/Contenido/Peliculas/Estrenos/Joker.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wfgY40tlbE1yoRAqPO893PX3l2d.jpg" group-title="Peliculas", El Rey Leon | 2019
 http://fina.dyndns.tv/Peliculas/Rey%20Leon%202019.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hIX9L34Zq6TMr81LhKMMZHYJYJ5.jpg" group-title="Peliculas", Bad Boys para siempre | 2020
+http://51.77.66.14/Bad%20Boys%20Para%20Siempre%202020%20BDRip%201080p%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/skBQQuaA60sX71uwinPfDnfALpC.jpg" group-title="Peliculas", Captain Marvel | 2019
+http://51.77.66.14/Captain.Marvel.2019.1080p.WEB-DL.DD5.1.H264.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rd7ElSRYhN2CFqMcyH8rqrwLbd6.jpg" group-title="Peliculas", Mulan | 2020
+http://51.77.66.14/Mulan.2020.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.265-PHOENiX.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5ivdmrdfkrzdrr106vzWFR65k7R.jpg" group-title="Peliculas", Noche de Juegos | 2018
+http://201.172.61.81:85/peliculas/octubre/Ver%20Noche%20de%20Juegos%20(2018)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wQKeS2JrsRF8XSfd9zqflrc5gad.jpg" group-title="Peliculas", Erase una vez en Hollywood | 2019
+http://201.172.61.81:85/peliculas/octubre/Ver%20%c3%89rase%20una%20Vez%20en...%20Hollywood%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg" group-title="Pixar", UP|2009
+http://51.77.66.14/07-Pixar/Up.2009.1080p.LATINO.x265.10bit/Up.2009.1080p.LATINO.x265.10bit.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="Pixar", Buscando a Nemo
+http://51.77.66.14/07-Pixar/Buscando.a.Nemo/Buscando.a.Nemo.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oburjHqzOrTtDLYbLunKLwUHhk1.jpg" group-title="Pixar", COCO
+http://51.77.66.14/07-Pixar/Coco%20(2017)%201080p%20BDRip%20Dual%20Audio%20Latino%20Bluray-Ingl%c3%a9s/Coco%20(2017)%201080p%20BDRip%20Dual%20Audio%20Latino%20Bluray-Ingl%c3%a9s.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jRm9SGPYZqNZ7F80MCuLZ4hTEmV.jpg" group-title="Pixar", Increíbles
+http://51.77.66.14/07-Pixar/Incredibles%20(2004)%201080p/Incredibles%20(2004)%201080p.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bcPvCjSVCOd3IJ7nxQEuNrzVPHc.jpg" group-title="Pixar", Increíbles 2
+http://51.77.66.14/07-Pixar/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-FGT.LATINO/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-FGT.LATINO.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/c527bh3QM4ItVT3ek5EI7GQOoDR.jpg" group-title="Pixar", Toy Story
+http://51.77.66.14/07-Pixar/Toy.Story.(1995).FullHD.1080p/Toy.Story.(1995).FullHD.1080p.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rRR2VjAXRbl0TN8FJaeMTOskz4k.jpg" group-title="Pixar", Toy Story 2
+http://51.77.66.14/07-Pixar/Toy.Story.2.(1999).FullHD.1080p/Toy.Story.2.(1999).FullHD.1080p.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ebJHla51MTJpSEY3BNu9s57FJYt.jpg" group-title="Pixar", Toy Story 3
+http://51.77.66.14/07-Pixar/Toy.Story.3.1080p.BluRay.LATiNO.ENG.X264-ETHOS/Toy.Story.3.1080p.BluRay.LATiNO.ENG.X264-ETHOS.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6R75Dl3ks0DbV5OD2ERAoPfCEHu.jpg" group-title="Pixar", Toy Story 4
+http://51.77.66.14/07-Pixar/Toy%20Story%204%20(2019)%20REMUX%201080p%20Latino/Toy%20Story%204%20(2019)%20REMUX%201080p%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sz6Ty5G6IaEvzdiCnujoT1r6Q2e.jpg" group-title="Pixar", Unidos
+http://51.77.66.14/07-Pixar/Unidos%202020%20Web-DL%201080p%20Latino/Unidos%202020%20Web-DL%201080p%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wb0wGdGmSTvA923mkEDT0heSwdg.jpg" group-title="Pixar", Walle
+http://51.77.66.14/07-Pixar/WALL-E.2008.1080p.Latino/WALL-E.2008.1080p.Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Peliculas", Ratatouille | 2007
+http://51.77.66.14/07-Pixar/Ratatouille.(2007)/Ratatouille.(2007).mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wLCmXz84c7BQbGEAz6D9Z0ErrWi.jpg" group-title="Peliculas", Zootopia | 2019
+http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
+EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Peliculas", Monster University
+http://51.77.66.14/07-Pixar/Monsters.University.2013.1080p.BluRay.TrueHD.7.1.x264-PublicHD/Monsters.University.2013.1080p.BluRay.Espa%c3%b1ol_ac3.x264-PublicHD.v2.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gFNDuzomx0Cuok9B6tYBVC5aoLN.jpg" group-title="Star Wars", Star Wars episodio 1 | 1999
 http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20(1999)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
@@ -347,6 +380,41 @@ http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20V%20-
 http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20VI%20-%20El%20Retorno%20del%20Jedi%20(1983)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aAIwk6RGQEdxFNlmRZwNfIiEVQv.jpg" group-title="Star Wars", Star Wars episodio 7 | 2015
 http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20VII%20-%20El%20Despertar%20de%20la%20Fuerza%20(2015)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dVgSnlKIfZ5Op9CvxoSzbFkYzb5.jpg" group-title="Piratas del Caribe", PdC La maldición de la perla negra| 2003
+http://51.77.66.14/Saga%20Piratas%20del%20Caribe%202003-2017%20Latino/%20Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.BDrip.1080p.Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dI5GhH15J4duJQ8LW3g0Cez4mjQ.jpg" group-title="Piratas del Caribe", PdC el cofre del hobmre muerto| 2006
+http://51.77.66.14/Saga%20Piratas%20del%20Caribe%202003-2017%20Latino/Pirates.of.the.Caribbean.Dead.Mans.Chest.2006.BDrip.1080p.Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hQJMgYxkhOwvrMFSsZFEorRaQ2D.jpg" group-title="Piratas del Caribe", PdC en el fin del mundo| 2007
+http://51.77.66.14/Saga%20Piratas%20del%20Caribe%202003-2017%20Latino/Pirates.of.the.Caribbean.At.Worlds.End.2007.BDrip.1080p.Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2O0LkPjQV4YeBTFj2VxPCVqzlb6.jpg" group-title="Piratas del Caribe", PdC en mareas misteriosas| 2011
+http://51.77.66.14/Saga%20Piratas%20del%20Caribe%202003-2017%20Latino/%20Pirates.of.the.Caribbean.On.Stranger.Tides.2011.BDrip.1080p.Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yAq4c4EokiMnpNXYZLakDe5cDtj.jpg" group-title="Piratas del Caribe", PdC la venganza de Salazar| 2017
+http://51.77.66.14/Saga%20Piratas%20del%20Caribe%202003-2017%20Latino/%20Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.BDrip.1080p.Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvXWpBCxLrNml0oCJory9KaMoBT.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos| 2001
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pido%20y%20Furioso%202001%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/c07uYNJhpA6p6SwiW0Es9Y1Yjqm.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 2| 2003
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%202%20%202003%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/peDWkVIzMk6ELQft1u8gjl5T0qu.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 3| 2006
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%203%20-%20Reto%20Tokio%202006%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fjGCa4oLvgpMVF2jawbjXBWp91v.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 4| 2009
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%204%202009%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qwzPdODt6nwZ9VjXEf3QYRmFULl.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 5| 2011
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%205%202011%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/o4adDyXuQdILub2KV0TjAZs1Ffb.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 6| 2013
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%206%20%202013%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/g5gq97G0AkWUN20hYGB98RuE3iU.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 7| 2015
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%207%20%202015%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bFOasfXkY2abyjg7jPlz6ONxd.jpg" group-title="Rapido y Furiosos", Rapido y Furiosos 8| 2017
+http://51.77.66.14/Saga%20Rapidos%20y%20Furiosos%202001-2017%204k%20Latino/R%c3%a1pidos%20y%20Furiosos%208%20%202017%20REMUX%204K%20HDR%20Latino.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2CVsjJepKoLXBqKzx7SsgRevicR.jpg" group-title="Jhon Wick", Jhon Wick 1
+http://51.77.66.14/Trilogia%20%20John%20Wick%202014-2019%20REMUX%204K%20HDR%20Latino/%20John%20Wick%202014%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yscP1PyFDzOMPdVP4V4BxWgF2xg.jpg" group-title="Jhon Wick", Jhon Wick 2
+http://51.77.66.14/Trilogia%20%20John%20Wick%202014-2019%20REMUX%204K%20HDR%20Latino/John%20Wick%202%20Un%20Nuevo%20D%c3%ada%20Para%20Matar%202017%20REMUX%204K%20HDR%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/eJQvfXuDPOgxNPdV7lWWHH5v6Fc.jpg" group-title="Jhon Wick", Jhon Wick 3
+http://51.77.66.14/Trilogia%20%20John%20Wick%202014-2019%20REMUX%204K%20HDR%20Latino/John%20Wick%203%20Parabellum%202019%20REMUX%204K%20HDR%20Latino.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S1E1
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/01x01.mkv
