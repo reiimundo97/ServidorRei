@@ -594,11 +594,6 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x23.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S5E24
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x24.mkv
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E1
-https://www.googleapis.com/drive/v3/files/18-eVWzVp_PJmoqqTwd5Eh6R1JS1bM2Yq?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/167xtTYu7qWn8dk2lzpYcPq1z0z.jpg" group-title="Loki", S1E2
-https://www.googleapis.com/drive/v3/files/1mniw_cDt_IIWfkJj8YDS88yKhOz1uMRB?alt=media&key=AIzaSyArMtN1WtwOViwKaNZr6SoVX9v23dd_Spg
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3hVeo6xaihFpgSJzHTSoCOsUSRA.jpg" group-title="Wanda Vision", S1E1
 http://201.172.61.203:88/Series/1%20FEBRERO/Wandavision/01.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3hVeo6xaihFpgSJzHTSoCOsUSRA.jpg" group-title="Wanda Vision", S1E2
