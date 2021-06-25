@@ -359,12 +359,14 @@ http://51.77.66.14/07-Pixar/Toy%20Story%204%20(2019)%20REMUX%201080p%20Latino/To
 http://51.77.66.14/07-Pixar/Unidos%202020%20Web-DL%201080p%20Latino/Unidos%202020%20Web-DL%201080p%20Latino.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wb0wGdGmSTvA923mkEDT0heSwdg.jpg" group-title="Pixar", Walle
 http://51.77.66.14/07-Pixar/WALL-E.2008.1080p.Latino/WALL-E.2008.1080p.Latino.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Peliculas", Ratatouille | 2007
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Pixar", Ratatouille | 2007
 http://51.77.66.14/07-Pixar/Ratatouille.(2007)/Ratatouille.(2007).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wLCmXz84c7BQbGEAz6D9Z0ErrWi.jpg" group-title="Peliculas", Zootopia | 2019
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wLCmXz84c7BQbGEAz6D9Z0ErrWi.jpg" group-title="Pixar", Zootopia | 2019
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Peliculas", Monster University
+EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Pixar", Monster University
 http://51.77.66.14/07-Pixar/Monsters.University.2013.1080p.BluRay.TrueHD.7.1.x264-PublicHD/Monsters.University.2013.1080p.BluRay.Espa%c3%b1ol_ac3.x264-PublicHD.v2.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aniVYzWSGT5ySUYhKpVkBgoBCr1.jpg" group-title="Peliculas", Lucas | 2021
+http://201.172.61.203:88/Peliculas/mkv/Ver%20Luca%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gFNDuzomx0Cuok9B6tYBVC5aoLN.jpg" group-title="Star Wars", Star Wars episodio 1 | 1999
 http://193.34.144.178/Bryan/pelisestarwars/Ver%20Star%20Wars-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20(1999)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
@@ -593,6 +595,13 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x22.mkv
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x23.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/How_i_met_your_mother_logo.svg/750px-How_i_met_your_mother_logo.svg.png" group-title="HIMYM", S5E24
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x24.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E1
+http://178.32.220.57/Loki.S01E01.MULTi.VF2.1080p.WEB-DL.DDP5.1.H264-FRATERNiTY/Loki.S01E01.MULTi.VF2.1080p.WEB-DL.DDP5.1.H264-FRATERNiTY.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E2
+http://178.32.220.57/Loki.S01E02.2021.MULTI.1080p.WEBRip.x264.AAC-SUNNY.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E3
+http://178.32.220.57/Loki.S01E03.2021.MULTI.1080p.WEBRip.x264.AAC-SUNNY.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3hVeo6xaihFpgSJzHTSoCOsUSRA.jpg" group-title="Wanda Vision", S1E1
 http://201.172.61.203:88/Series/1%20FEBRERO/Wandavision/01.mp4
