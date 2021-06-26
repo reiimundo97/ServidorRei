@@ -597,9 +597,9 @@ http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x23.mkv
 http://fina.dyndns.tv/Series/How%20I%20met%20your%20Mother/05x24.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E1
-http://178.32.220.57/Loki.S01E01.MULTi.VF2.1080p.WEB-DL.DDP5.1.H264-FRATERNiTY/Loki.S01E01.MULTi.VF2.1080p.WEB-DL.DDP5.1.H264-FRATERNiTY.mkv
+http://201.172.61.203:88/Series/1miguel/Loki/01.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E2
-http://178.32.220.57/Loki.S01E02.2021.MULTI.1080p.WEBRip.x264.AAC-SUNNY.mkv
+http://201.172.61.203:88/Series/1miguel/Loki/02.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Loki_transparent_logo.png" group-title="Loki", S1E3
 http://178.32.220.57/Loki.S01E03.2021.MULTI.1080p.WEBRip.x264.AAC-SUNNY.mkv
 
@@ -1837,3 +1837,310 @@ http://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/03x09.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nsM4tkAG1LoClPmA8Rprgxe4546.jpg" group-title="Rick and Morty", S3E10
 http://fina.dyndns.tv/Cartoons/Rick%20y%20Morty/03x10.mkv
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E1
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E2
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E3
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E4
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E5
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E6
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E7
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E8
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E9
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E10
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E11
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E12
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fIK7MiVnbgB1tHOn0E9EhXa6iuK.jpg" group-title="Laboratorio de Dexter", S1E13
+http://201.172.61.81:85/series/Caricaturas/1ElLabortor%20De%20Dextr/ElLabortorDDextrTmp1/13.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E1
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E2
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E3
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E4
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E5
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E6
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E7
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E8
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E9
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E10
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E11
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E12
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E13
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/13.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E14
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/14.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E15
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/15.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E16
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/16.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E17
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/17.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E18
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/18.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E19
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/19.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rFdzPaFdfm3LZ9lBYtiM08MT0n1.jpg" group-title="Hey Arnold", S1E20
+http://201.172.61.81:85/series/Caricaturas/Arn/Temporada%201/20.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 1
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/200.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 2
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/201.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 3
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/202.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 4
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/203.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 5
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/204.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 6
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/205.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 7
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/206.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 8
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/207.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 9
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/208.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 10
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/209.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 11
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/210.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 12
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/211.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 13
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/212.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 14
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/213.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 15
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/214.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 16
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/215.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 17
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/216.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 18
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/217.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 19
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/218.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 20
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/219.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 21
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/220.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 22
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/221.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 23
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/222.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 24
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/223.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 25
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/224.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 26
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/225.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 27
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/226.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 28
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/227.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 29
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/228.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 30
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/229.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 31
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/230.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 32
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/231.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 33
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/232.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 34
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/233.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 35
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/234.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 36
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/235.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 37
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/236.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 38
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/237.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 39
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/238.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 40
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/239.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9sy2AhN01Mjw9lmSrp64QyKky16.jpg" group-title="Dragon Ball Z", Saga Majinbuu 41
+http://201.172.61.81:85/series/Caricaturas/1Dragon%20Ball%20Z/200-260.Dragon%20Ball%20Z%20Saga%20Majin%20Buu/240.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E1
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E2
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E3
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E4
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E5
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E6
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E7
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E8
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E9
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E10
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E11
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E12
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uNJHuUzhEowOBwCesWLxHsqi3g2.jpg" group-title="Gargolas", S1E13
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T1/13.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E1
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E2
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E3
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E4
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E5
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E6
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E7
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E8
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E9
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E10
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E11
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E12
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E13
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/13.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E14
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/14.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E15
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/15.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E16
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/16.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E17
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/17.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E18
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/18.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E19
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/19.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E20
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/20.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E21
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/21.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E22
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/22.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E23
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/23.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E24
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/24.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E25
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/25.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E26
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/26.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E27
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/27.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E28
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/28.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E29
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/29.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E30
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/30.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E31
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/31.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E32
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/32.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E33
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/33.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E34
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/34.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E35
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/35.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E36
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/36.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E37
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/37.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E38
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/38.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E39
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/39.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E40
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/40.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E41
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/41.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E42
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/42.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E43
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/43.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E44
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/44.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E45
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/45.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E46
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/46.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E47
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/47.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E48
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/48.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E49
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/49.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E50
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/50.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E51
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/51.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yDTZYbiRUapeWRJL6EU3ZtLUAYA.jpg" group-title="Gargolas", S2E52
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T2/52.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E1
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E2
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E3
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E4
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/04.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E5
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/05.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E6
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/06.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E7
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/07.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E8
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/08.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E9
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/09.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E10
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/10.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E11
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/11.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E12
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/12.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aj6m5kumwaML1CKA5mS4ccSUILq.jpg" group-title="Gargolas", S3E13
+http://201.172.61.81:85/series/Caricaturas/Gargolas/Gargolas%20T3/13.mp4
