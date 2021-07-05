@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="https://tv.teleclub.xyz/epg"
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador", Ecuador | Ecuavisa
+http://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador", Ecuador | Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Ecuador", Ecuador | Tc Television
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV-en-vivo-Online.png" group-title="Ecuador", Ecuador | Canela TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1646184974.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="Ecuador", Ecuador | Telerama
+http://181.175.114.83:8080/livestream/stream.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil [Club1]", Cartoon Network [Club]
 https://tv.teleclub.xyz/canales/club/CARTOON.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil [Club1]", Disney Channel [Club]
