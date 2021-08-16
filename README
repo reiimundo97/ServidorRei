@@ -206,13 +206,13 @@ https://tv.teleclub.xyz/live/club2/GARAGETV.m3u8
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Cruella%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mmHryQX8LP1s3OEGtDpSaV7uraE.jpg" group-title="Peliculas", El Conjuro 3|2021
 http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
-EXTINF:-1 tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/10007-14015-Annabelljpg" group-title="Peliculas", Anabelle 3|2019
+#EXTINF:-1 tvg-logo="https://popcornusa.s3.amazonaws.com/movies/650/10007-14015-Annabelljpg" group-title="Peliculas", Anabelle 3|2019
 http://193.34.144.178/Bryan/Peliculas/Ver%20Annabelle%20vuelve%20a%20casa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dIskHjAtbrXk7JpOc6poo6anWGX.jpg" group-title="Peliculas", La Dama y el Vagabundo|1955
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dIskHjAtbrXk7JpOc6poo6anWGX.jpg" group-title="Peliculas", La Dama y el Vagabundo|1955
 http://fina.dyndns.tv/Peliculas/La%20Dama%20Y%20el%20Vagabundo.mkv
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nPCICwwl4eYTrvY7PlvfPIwFqHl.jpg" group-title="Peliculas", Raya y el Ultimo Dragon|2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nPCICwwl4eYTrvY7PlvfPIwFqHl.jpg" group-title="Peliculas", Raya y el Ultimo Dragon|2021
 http://201.172.61.203:88/Peliculas/Febrero/Raya%20and%20the%20Last%20Dragon%20(2021)%20%5b1080p%20DSNP%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvAKVNLJeBOb2hJBsaqLrC3mXo3.jpg" group-title="Peliculas", Godzilla vs Kong|2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvAKVNLJeBOb2hJBsaqLrC3mXo3.jpg" group-title="Peliculas", Godzilla vs Kong|2021
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/djpjjR2qt1g7CwACKuxNWpQSf8Q.jpg" group-title="Peliculas", Wonder Woman 1984 |2020
 http://fina.dyndns.tv/Peliculas/Wonder%20Woman%201984.mkv
@@ -242,7 +242,6 @@ http://201.172.61.203:88/Peliculas/jul%20agos/Ver%20Space%20Jam%20(1996)%20Onlin
 https://stream-4091-31-168.pvdcdn.co/kuohol4ch4ikkfn2mbdpqoammdz5x7icxhfgra2bm4pxxfunkxcf3eg5za/v.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/cuYG273Z3zwV2qLw8pabGfhnn6v.jpg" group-title="Peliculas", Suicide Squad | 2021
 http://201.172.61.203:88/Peliculas/jul%20agos/The.suicide.squad.2021.mp4
-
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bvi9kkGtyZGS4QuGI4AuT6QbpDQ.jpg" group-title="Terror", Actividad Paranormal 1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/ACTIVIDAD%20PARANORMAL%201.mkv
@@ -305,7 +304,7 @@ http://51.77.66.14/07-Pixar/WALL-E.2008.1080p.Latino/WALL-E.2008.1080p.Latino.mk
 http://51.77.66.14/07-Pixar/Ratatouille.(2007)/Ratatouille.(2007).mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wLCmXz84c7BQbGEAz6D9Z0ErrWi.jpg" group-title="Pixar", Zootopia | 2019
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Pixar", Monster University
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uocaF6vO498tGWuUEdbTHT17XrC.jpg" group-title="Pixar", Monster University
 http://51.77.66.14/07-Pixar/Monsters.University.2013.1080p.BluRay.TrueHD.7.1.x264-PublicHD/Monsters.University.2013.1080p.BluRay.Espa%c3%b1ol_ac3.x264-PublicHD.v2.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aniVYzWSGT5ySUYhKpVkBgoBCr1.jpg" group-title="Pixar" Lucas | 2021
 http://201.172.61.203:88/Peliculas/mkv/Ver%20Luca%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
@@ -358,7 +357,7 @@ https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Estrenos/Venom.mp4
 https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Estrenos/Spider_Man_Lejos_de_Casa.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/e47p9fHR6jMrrLeoa7l5hU05vhR.jpg" group-title="Marvel", Spiderman Un Nuevo Universo | 2020
 https://videoturismo.xyz/home/nube/Multimedia/Peliculas/Estrenos/SpiderMan_Un_nuevo_universo.mp4
-EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8peYuPeLawgCFhuI4IcDjdrAAXw.jpg" group-title="Marvel", DeadPool | 2016
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8peYuPeLawgCFhuI4IcDjdrAAXw.jpg" group-title="Marvel", DeadPool | 2016
 http://201.172.61.81:85/peliculas/octubre/Marvel/Deadpool.2016.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8peYuPeLawgCFhuI4IcDjdrAAXw.jpg" group-title="Marvel", DeadPool 2 | 2018
 http://201.172.61.81:85/peliculas/octubre/Marvel/Deadpool.2.mp4
